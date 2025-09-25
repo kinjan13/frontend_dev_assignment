@@ -18,6 +18,7 @@ This assignment is designed to assess your practical skills in **React, Next.js,
 desktop
 
 <img width="371" height="484" alt="Screenshot 2025-09-25 135819" src="https://github.com/user-attachments/assets/5045bb79-5c6d-4de4-96ff-bdbe9c9fffbb" />
+
 tablet
 
 
