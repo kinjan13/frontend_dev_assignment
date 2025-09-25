@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "John Doe", "serviceType": "Plumber", "price": 50, "image": "/images/plumber.png" },
+  { "id": 2, "name": "Jane Smith", "serviceType": "Electrician", "price": 70, "image": "/images/jane.png" },
+  { "id": 3, "name": "Mike Johnson", "serviceType": "Cleaner", "price": 40, "image": "/images/mike.png" },
+  { "id": 4, "name": "Emily Davis", "serviceType": "Painter", "price": 60, "image": "/images/painter.png" },
+  { "id": 5, "name": "Robert Brown", "serviceType": "Plumber", "price": 55, "image": "/images/plumber.png" },
+  { "id": 6, "name": "Linda Wilson", "serviceType": "Electrician", "price": 80, "image": "/images/jane.png" },
+  { "id": 7, "name": "James Taylor", "serviceType": "Cleaner", "price": 45, "image": "/images/mike.png" },
+  { "id": 8, "name": "Patricia Anderson", "serviceType": "Painter", "price": 65, "image": "/images/painter.png" },
+  { "id": 9, "name": "William Thomas", "serviceType": "Plumber", "price": 52, "image": "/images/plumber.png" },
+  { "id": 10, "name": "Barbara Jackson", "serviceType": "Electrician", "price": 75, "image": "/images/jane.png" }
+]
