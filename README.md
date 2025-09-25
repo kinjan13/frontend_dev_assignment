@@ -14,7 +14,12 @@ This assignment is designed to assess your practical skills in **React, Next.js,
 ### 1. Fix Cards Layout & Responsiveness  
 - Correct the existing card grid layout.  
 - Improve the overall card design (UI/UX sensibility expected).  
-- Ensure the page is fully responsive across devices (desktop, tablet, mobile).  
+- Ensure the page is fully responsive across devices (desktop, tablet, mobile).  <img width="938" height="400" alt="Screenshot 2025-09-25 135540" src="https://github.com/user-attachments/assets/d6a28731-52fc-4396-8502-973c1ae514bf" />
+desktop
+
+<img width="371" height="484" alt="Screenshot 2025-09-25 135819" src="https://github.com/user-attachments/assets/5045bb79-5c6d-4de4-96ff-bdbe9c9fffbb" />
+tablet
+
 
 ### 2. Add Navbar (Sticky)  
 - Implement a navigation bar that remains fixed at the top while scrolling.  
@@ -24,7 +29,10 @@ This assignment is designed to assess your practical skills in **React, Next.js,
 - Implement optimizations such as:  
   - **Lazy loading** for images and non-critical components.  
   - **Memoization** to avoid unnecessary re-renders.  
-  - **Skeleton loading screens** for better UX during data fetch.  
+  - **Skeleton loading screens** for better UX during data fetch.
+ 
+  - <img width="791" height="425" alt="Screenshot 2025-09-25 135645" src="https://github.com/user-attachments/assets/e6e4e727-338c-438a-b2ff-b85f07490a99" />
+
 
 ### 4. Implement Pagination  
 - Add pagination for the workers listing page.  
@@ -33,6 +41,7 @@ This assignment is designed to assess your practical skills in **React, Next.js,
 ### 5. Service Filters  
 - Implement filters for workers based on **price/day** and **type of service**.  
 - Filters should work seamlessly with pagination.  
+<img width="908" height="433" alt="Screenshot 2025-09-25 135618" src="https://github.com/user-attachments/assets/6396ab6d-0b01-4213-a1a0-2d2bae4fa1fe" />
 
 ### 6. Bug Fixes  
 - Identify and fix any existing issues in `page.tsx` or configuration files.  
